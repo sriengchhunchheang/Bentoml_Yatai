@@ -10,3 +10,4 @@ git commit -m "$MESSAGE"
 ## using: Reload shell startup file by: source ~/.bashrc
 ## using: gitpush "message" to push to github  
 
+## To make forever: open bashrc and add the line: alias commit="/c/Users/60050158/Desktop/BDH/Bentoml_Yatai/Git_push.sh"
