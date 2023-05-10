@@ -1,10 +1,10 @@
 # Bentoml_Yatai
 ## Let's start
-  pip install -r requirements.txt
-  python main.py
+    pip install -r requirements.txt
+    python main.py
 
 After trained the model. We can check the model in bento through:
-  bentoml models list
+    bentoml models list
 
 
 # Yatai Playground
@@ -17,6 +17,7 @@ After trained the model. We can check the model in bento through:
 1. Launch yatai deployment service
   `docker-compose up -d`
 2. Bundle iris-classifier
-  `docker-compose run iris-classifier-bundle`
+  <!-- `docker-compose run iris-classifier-bundle`
+  docker-compose run iris-classifier-bundle
 3. Yatai web console 
   http://localhost:3000/
