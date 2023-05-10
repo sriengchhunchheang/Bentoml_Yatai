@@ -1,0 +1,2 @@
+[2023-05-10 10:45:00,983] {env.py:226} WARNING - Python 3.10.4 found in current environment is not officially supported by BentoML. The docker base image used is'bentoml/model-server:0.13.1' which will use conda to install Python 3.10.4 in the build process. Supported Python versions are: f3.6, 3.7, 3.8
+[2023-05-10 10:45:03,644] {bento_repository_api.py:271} INFO - BentoService bundle 'IrisClassifier:20230510104502_C8D954' saved to: C:\Users\60050158\Desktop\BDH\Bentoml_Yatai/bentoml\repository\IrisClassifier\20230510104502_C8D954
