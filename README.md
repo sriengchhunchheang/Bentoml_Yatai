@@ -3,7 +3,7 @@
     pip install -r requirements.txt
     python main.py
 
-After trained the model. We can check the model in bento through:
+## After trained the model. We can check the model in bento through:
     bentoml models list
 
 
