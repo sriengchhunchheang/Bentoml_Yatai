@@ -20,3 +20,10 @@
   - `docker-compose run iris-classifier-bundle`
 3. Yatai web console 
   - http://localhost:3000/
+
+
+# Config
+- `curl ifconfig.me`
+- `curl icanhazip.com`
+-> This will show the public IP address that the rest of the internet sees for your server.
+- ` http://110.78.212.247:4000`
